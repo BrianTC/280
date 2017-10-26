@@ -1,9 +1,12 @@
 All of these programs can be compiled by using:
 	~$g++ --std=c++11 *.cpp 
 within the respective folder of the project. 
-Now if you choose to run programs 3&4 with the test files provided there will be descrepencies on line numbers in errors. This is more/less okay and not really much of an error due to how I measuered line numbers in project 2 (which wasn't checked at that time) to how Prof. Ryan did in his code for project 2. And these "errors" carried over to 3&4. 
+Now if you choose to run programs 3&4 with the test files provided there will be descrepencies on line numbers in errors. 
+This is more/less okay and not really much of an error due to how I measuered line numbers in project 2 (which wasn't 
+checked at that time) to how Prof. Ryan did in his code for project 2. And these "errors" carried over to 3&4. 
 
-In Project 1 its a complete mess and doesn't look very good at all but it was soupposed to be a learning expereince and something to not make the same mistake again. 
+In Project 1 its a complete mess and doesn't look very good at all but it was soupposed to be a learning expereince 
+and something to not make the same mistake again. 
 
 The syntax for the language is as follows.
 set x 21;			//will set the value of x to 21
@@ -24,8 +27,8 @@ set y 51			//missing semicolon;
 print "hello
 	world";			//This is an error since strings may not have a line break in them
 
-set xx 5*"string"; 	//an error since there is no definition of a number *(STAR) string		
-set yy 7+"String"; 	//or for adding a string and a number
+set xx 5*"string"; 		//an error since there is no definition of a number *(STAR) string		
+set yy 7+"String"; 		//or for adding a string and a number
 
 print xx;			//xx not set yet
 set xx 5;			//its set down here
