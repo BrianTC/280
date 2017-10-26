@@ -7,8 +7,8 @@ In Project 1 its a complete mess and doesn't look very good at all but it was so
 
 The syntax for the language is as follows.
 set x 21;			//will set the value of x to 21
-set y "hello";		//will set the value of y to "hello"
-print y+"world";	//will concat y and "world" then print
+set y "hello";			//will set the value of y to "hello"
+print y+"world";		//will concat y and "world" then print
 print y*x;			//will reurn y repeated x times, and print in this case
 set z y*x;			//will do the same as above but set the return value to z instead of printing it. 
 print x+5;			//prints the sum of x and 5 
